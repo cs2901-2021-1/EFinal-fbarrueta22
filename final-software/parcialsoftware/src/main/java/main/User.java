@@ -21,9 +21,6 @@ public class User {
         this.password = password;
     }
 
-    public float getPorcentaje(String rangoDeEdad) {
-        return DataVacunacion.getInstance().getPorcentaje(rangoDeEdad);
-    }
 
 
 }

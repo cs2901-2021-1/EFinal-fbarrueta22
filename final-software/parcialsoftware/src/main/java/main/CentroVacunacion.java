@@ -10,17 +10,19 @@ public class CentroVacunacion {
     private int vacunasParciales;
     private int vacunasCompletas;
 
-    public CentroVacunacion(String distrito) {
+    public CentroVacunacion(String distrito, int vacunasParciales, int vacunasCompletas) {
         isBaja = false;
         personasVacunadas = new ArrayList<>();
         this.distrit = distrito;
+        this.vacunasParciales = vacunasParciales;
+        this.vacunasCompletas = vacunasCompletas;
     }
 
-    public void darDeBaja() {
+    public void darBaja() {
         isBaja = true;
     }
 
-    public void darDeAlta() {
+    public void darAlta() {
         isBaja = false;
     }
 

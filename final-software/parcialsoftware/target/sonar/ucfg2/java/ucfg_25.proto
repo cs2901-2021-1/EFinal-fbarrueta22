@@ -1,0 +1,22 @@
+
+,main.User#getPorcentaje(Ljava/lang/String;)FN
+DD:/Final/final-software/parcialsoftware/src/main/java/main/User.java ("1*í
+1N
+DD:/Final/final-software/parcialsoftware/src/main/java/main/User.java (¿
+¼
+N
+DD:/Final/final-software/parcialsoftware/src/main/java/main/User.java (+
+%0main.DataVacunacion"6main.DataVacunacion#getInstance()Lmain/DataVacunacion;*"
+main.DataVacunacionûø
+N
+DD:/Final/final-software/parcialsoftware/src/main/java/main/User.java (F
+%1float"6main.DataVacunacion#getPorcentaje(Ljava/lang/String;)F*
+
+%0main.DataVacunacion*!
+
+rangoDeEdadjava.lang.String2!getPorcentaje(Ljava/lang/String;)"X
+N
+DD:/Final/final-software/parcialsoftware/src/main/java/main/User.java (G
+"":
+rangoDeEdadjava.lang.StringB
+	main.User
