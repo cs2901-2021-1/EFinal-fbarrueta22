@@ -19,7 +19,7 @@ public class Login {
         return instance;
     }
 
-    public void addUser() {
+    public void toUser() {
         try (Scanner scanner = new Scanner(System.in)) {
             logger.info(" Enter username: ");
             String userName = scanner.nextLine();
@@ -30,7 +30,6 @@ public class Login {
             User user = new User(userName,password);
             users.add(user);
 
-            System.out.print("Welcome");
             while (true) {
                 logger.info("Añadir Centro de Vacunación (0): ");
                 logger.info("Avance de la Vacunación (1): ");
@@ -85,7 +84,7 @@ public class Login {
                     String rangoDeEdad = scanner.nextLine();
                     logger.info(Float.toString(DataVacunacion.getInstance().getPorcentaje(rangoDeEdad)));
                 }
-                else if (option.equals("7")) {
+                else if (option.equals("8")) {
                     logout(user);
                     break;
                 }

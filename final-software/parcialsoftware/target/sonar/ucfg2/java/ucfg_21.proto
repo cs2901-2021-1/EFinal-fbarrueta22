@@ -1,24 +1,24 @@
 
 main.Login#logout(Lmain/User;)ZO
-ED:/Final/final-software/parcialsoftware/src/main/java/main/Login.javad d("1*˜
+ED:/Final/final-software/parcialsoftware/src/main/java/main/Login.javac c("1*˜
 1O
-ED:/Final/final-software/parcialsoftware/src/main/java/main/Login.javae e(‹
+ED:/Final/final-software/parcialsoftware/src/main/java/main/Login.javad d(‹
 ˆ
 O
-ED:/Final/final-software/parcialsoftware/src/main/java/main/Login.javae e(
+ED:/Final/final-software/parcialsoftware/src/main/java/main/Login.javad d(
 %0java.util.List"__id**
 
 main.Login"
 usersØÕ
 O
-ED:/Final/final-software/parcialsoftware/src/main/java/main/Login.javae e(!
+ED:/Final/final-software/parcialsoftware/src/main/java/main/Login.javad d(!
 %1boolean"*java.util.List#remove(Ljava/lang/Object;)Z*
 
 %0java.util.List*
 
 user	main.User2remove(Ljava/lang/Object;)"Y
 O
-ED:/Final/final-software/parcialsoftware/src/main/java/main/Login.javae e("
+ED:/Final/final-software/parcialsoftware/src/main/java/main/Login.javad d("
 "":
 user	main.UserB
 
