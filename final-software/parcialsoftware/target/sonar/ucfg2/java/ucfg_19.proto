@@ -1,57 +1,53 @@
 
-3main.CentroVacunacionManager#getVacunasCompletas()Ia
-WD:/Final/final-software/parcialsoftware/src/main/java/main/CentroVacunacionManager.java, ,(""5*¬
-2a
-WD:/Final/final-software/parcialsoftware/src/main/java/main/CentroVacunacionManager.java. .($ï
-í
-a
-WD:/Final/final-software/parcialsoftware/src/main/java/main/CentroVacunacionManager.java. .($
-centromain.CentroVacunacion"__id*
-""π
-∂
-a
-WD:/Final/final-software/parcialsoftware/src/main/java/main/CentroVacunacionManager.java. .($
-centromain.CentroVacunacion"
-__arrayGet*
-
-%1java.util.Collection*
-""*
-4
-1*«
-3a
-WD:/Final/final-software/parcialsoftware/src/main/java/main/CentroVacunacionManager.java0 0(Ÿ÷
-a
-WD:/Final/final-software/parcialsoftware/src/main/java/main/CentroVacunacionManager.java0 0(4	
-%3int",main.CentroVacunacion#getVacunasCompletas()I*!
-
-centromain.CentroVacunacion2getVacunasCompletas()*
-2*∫
-4a
-WD:/Final/final-software/parcialsoftware/src/main/java/main/CentroVacunacionManager.java/ /(…∆
-a
-WD:/Final/final-software/parcialsoftware/src/main/java/main/CentroVacunacionManager.java/ /(#
-%2boolean""main.CentroVacunacion#getisBaja()Z*!
-
-centromain.CentroVacunacion2getisBaja()*
+$main.Login#getInstance()Lmain/Login;O
+ED:/Final/final-software/parcialsoftware/src/main/java/main/Login.java% (0"3*µ
+2O
+ED:/Final/final-software/parcialsoftware/src/main/java/main/Login.java (qo
+O
+ED:/Final/final-software/parcialsoftware/src/main/java/main/Login.java (
+%1
+main.Login"
+main.LoginÑ
+Å
+O
+ED:/Final/final-software/parcialsoftware/src/main/java/main/Login.java (
+%2"main.Login#<init>()V*
+
+%1
+main.Login"e
+O
+ED:/Final/final-software/parcialsoftware/src/main/java/main/Login.java (
+
+%1
+main.Login*È
+3O
+ED:/Final/final-software/parcialsoftware/src/main/java/main/Login.java (ä
+á
+O
+ED:/Final/final-software/parcialsoftware/src/main/java/main/Login.java (
+%0
+main.Login"__id**
+
+main.Login"
+
+instance*
 2
-3*ä
-5a
-WD:/Final/final-software/parcialsoftware/src/main/java/main/CentroVacunacionManager.java.' .(:¿
-Ω
-a
-WD:/Final/final-software/parcialsoftware/src/main/java/main/CentroVacunacionManager.java.' .(:
-%0java.util.HashMap"__id*9*7
-main.CentroVacunacionManager"
-centrosDeVacunacionŸ÷
-a
-WD:/Final/final-software/parcialsoftware/src/main/java/main/CentroVacunacionManager.java.' .(C
-%1java.util.Collection"0java.util.HashMap#values()Ljava/util/Collection;*
-
-%0java.util.HashMap2values()*
-2*”
-1a
-WD:/Final/final-software/parcialsoftware/src/main/java/main/CentroVacunacionManager.java3 3("k
-a
-WD:/Final/final-software/parcialsoftware/src/main/java/main/CentroVacunacionManager.java3 3(
-""B 
-main.CentroVacunacionManager
+1*»
+1O
+ED:/Final/final-software/parcialsoftware/src/main/java/main/Login.java (ä
+á
+O
+ED:/Final/final-software/parcialsoftware/src/main/java/main/Login.java (
+%3
+main.Login"__id**
+
+main.Login"
+
+instance"e
+O
+ED:/Final/final-software/parcialsoftware/src/main/java/main/Login.java (
+
+%3
+main.LoginB"
+
+main.Login

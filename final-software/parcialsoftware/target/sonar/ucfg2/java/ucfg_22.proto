@@ -1,17 +1,17 @@
 
-)main.User#getPassword()Ljava/lang/String;N
-DD:/Final/final-software/parcialsoftware/src/main/java/main/User.java ("1*Ð
+)main.User#getUserName()Ljava/lang/String;N
+DD:/Final/final-software/parcialsoftware/src/main/java/main/User.java ("1*Ð
 1N
-DD:/Final/final-software/parcialsoftware/src/main/java/main/User.java (Ž
+DD:/Final/final-software/parcialsoftware/src/main/java/main/User.java (Ž
 ‹
 N
-DD:/Final/final-software/parcialsoftware/src/main/java/main/User.java (
+DD:/Final/final-software/parcialsoftware/src/main/java/main/User.java (
 %0java.lang.String"__id**
 	main.User"
 
-password"j
+userName"j
 N
-DD:/Final/final-software/parcialsoftware/src/main/java/main/User.java (
+DD:/Final/final-software/parcialsoftware/src/main/java/main/User.java (
 
 %0java.lang.StringB
 	main.User

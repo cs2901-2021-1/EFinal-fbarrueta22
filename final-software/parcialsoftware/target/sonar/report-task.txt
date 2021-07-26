@@ -3,5 +3,5 @@ projectKey=cs2901-2021-1_EFinal-fbarrueta22
 serverUrl=https://sonarcloud.io
 serverVersion=8.0.0.22079
 dashboardUrl=https://sonarcloud.io/dashboard?id=cs2901-2021-1_EFinal-fbarrueta22
-ceTaskId=AXrkmnDHPeDimRrLezB4
-ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXrkmnDHPeDimRrLezB4
+ceTaskId=AXrkuJzfr7WCwZj2bvRX
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXrkuJzfr7WCwZj2bvRX

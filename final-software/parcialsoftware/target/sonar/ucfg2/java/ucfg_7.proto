@@ -1,50 +1,23 @@
 
-6main.DataVacunacion#getInstance()Lmain/DataVacunacion;X
-ND:/Final/final-software/parcialsoftware/src/main/java/main/DataVacunacion.java
-! 
-(,"3*º
-2X
-ND:/Final/final-software/parcialsoftware/src/main/java/main/DataVacunacion.java (+çä
-X
-ND:/Final/final-software/parcialsoftware/src/main/java/main/DataVacunacion.java ()
-%1main.DataVacunacion"main.DataVacunacionü
-ú
-X
-ND:/Final/final-software/parcialsoftware/src/main/java/main/DataVacunacion.java (+
-%2"main.DataVacunacion#<init>()V*
-
-%1main.DataVacunacion•
-¢
-X
-ND:/Final/final-software/parcialsoftware/src/main/java/main/DataVacunacion.java (+#
-main.DataVacunacion"
-
-instance"__id*
-
-%1main.DataVacunacion*
-1*ç
-3X
-ND:/Final/final-software/parcialsoftware/src/main/java/main/DataVacunacion.java (•
-¢
-X
-ND:/Final/final-software/parcialsoftware/src/main/java/main/DataVacunacion.java (
-%0main.DataVacunacion"__id*%*#
-main.DataVacunacion"
-
-instance*
-2
-1*˛
-1X
-ND:/Final/final-software/parcialsoftware/src/main/java/main/DataVacunacion.java (•
-¢
-X
-ND:/Final/final-software/parcialsoftware/src/main/java/main/DataVacunacion.java (
-%3main.DataVacunacion"__id*%*#
-main.DataVacunacion"
-
-instance"w
-X
-ND:/Final/final-software/parcialsoftware/src/main/java/main/DataVacunacion.java (
-
-%3main.DataVacunacionB"
-main.DataVacunacion
+,main.CentroVacunacionController#getAvance()Fd
+ZD:/Final/final-software/parcialsoftware/src/main/java/main/CentroVacunacionController.java8 8("1*‹
+1d
+ZD:/Final/final-software/parcialsoftware/src/main/java/main/CentroVacunacionController.java9 9(ËÂ
+d
+ZD:/Final/final-software/parcialsoftware/src/main/java/main/CentroVacunacionController.java9) 9(>	
+%0int"6main.CentroVacunacionController#getVacunasParciales()I*#!
+main.CentroVacunacionController2getVacunasParciales()ËÂ
+d
+ZD:/Final/final-software/parcialsoftware/src/main/java/main/CentroVacunacionController.java9? 9(T	
+%1int"6main.CentroVacunacionController#getVacunasCompletas()I*#!
+main.CentroVacunacionController2getVacunasCompletas()™
+ß
+d
+ZD:/Final/final-software/parcialsoftware/src/main/java/main/CentroVacunacionController.java9 9(\	
+%2int"java.lang.Math#round(F)I*"
+java.lang.Math*
+"""n
+d
+ZD:/Final/final-software/parcialsoftware/src/main/java/main/CentroVacunacionController.java9 9(d
+""B#!
+main.CentroVacunacionController
